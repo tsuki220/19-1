@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>前期課題</title>
+<link rel="stylesheet"href="mystyle.css">
+<script src="ex06-5.js"></script>
+</head>
+<body>
+<h1><p class="sample1">自己紹介</p></h1>
+<table><tbody>
+<tr><th>名前</th><td>鈴木　月菜</td>
+<tr><th>出身県</th><td><a href="https://www.pref.fukushima.lg.jp/"target="_blank">福島県</a><br></td></tr>
+  <th>趣味</th><td>カラオケ</td>
+  <tr><th>バイト</th><td>パチンコ屋</td>
+  <tr><th>大学での目標</th><td>TOEICスコア高得点・何かの資格を取得する</td>
+  <tr><th>家族構成</th><td>母・父・兄・<img src="./josai.png"alt="犬">(以前飼っていました)</td></tr>
+</tbody>
+</table>
+
+</body>
+</html>
